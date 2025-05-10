@@ -1,0 +1,2 @@
+We need to install that first"pip install langchain-groq python-dotenv"
+run that "python groq_demo.py" on bash
